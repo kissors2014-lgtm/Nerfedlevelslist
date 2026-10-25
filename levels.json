@@ -1,0 +1,61 @@
+{
+  "listName": "Nerfed Levels List",
+  "mainListSize": 5,
+  "levels": [
+    {
+      "name": "Grief Nerf",
+      "creator": "Creator1",
+      "verifier": "Kizo",
+      "videoId": "dQw4w9WgXcQ",
+      "levelId": 100000001,
+      "requirement": 66,
+      "records": [
+        { "player": "Player2", "percent": 100, "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+      ]
+    },
+    {
+      "name": "Tidal Nerf",
+      "creator": "Creator2",
+      "verifier": "Kizo",
+      "videoId": "dQw4w9WgXcQ",
+      "levelId": 100000002,
+      "requirement": 55,
+      "records": [
+        { "player": "Player1", "percent": 100, "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
+        { "player": "Player3", "percent": 72, "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+      ]
+    },
+    {
+      "name": "Nerfciety",
+      "creator": "Creator1",
+      "verifier": "Kizo",
+      "videoId": "dQw4w9WgXcQ",
+      "levelId": 100000003,
+      "requirement": 75,
+      "records": [
+        { "player": "Player1", "percent": 100, "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+      ]
+    },
+    {
+      "name": "Shitty Nerferon",
+      "creator": "Creator3",
+      "verifier": "Kizo",
+      "videoId": "dQw4w9WgXcQ",
+      "levelId": 100000004,
+      "requirement": 66,
+      "records": []
+    },
+    {
+      "name": "Defeated Nerfcles",
+      "creator": "Creator2",
+      "verifier": "Kizo",
+      "videoId": "dQw4w9WgXcQ",
+      "levelId": 100000005,
+      "requirement": 40,
+      "records": [
+        { "player": "Player2", "percent": 100, "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
+        { "player": "Player3", "percent": 100, "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+      ]
+    }
+  ]
+}
